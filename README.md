@@ -1,6 +1,9 @@
 # ✈️ Automated Airline Flight Crew Pairing Optimizer
 
 A desktop app that solves the **0/1 Knapsack Problem with Dynamic Programming** and shows every step of it, built with Python and Tkinter for a Design and Analysis of Algorithms (DAA) assignment.
+<img width="1346" height="719" alt="Screenshot 2026-10-25 195703" src="https://github.com/user-attachments/assets/60132e00-f9db-4912-9f45-4d1b04724dbe" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/249d7b23-46fb-493b-8f18-981fa2b2f41d" />
+
 
 Airlines must build crew pairings that maximise mission value without breaking legal duty-time limits (FAA / DGCA style shift caps). This maps directly onto 0/1 Knapsack:
 
